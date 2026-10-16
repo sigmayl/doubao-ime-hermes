@@ -1,0 +1,10 @@
+name: doubao-ime
+version: 0.1.0
+description: >-
+  Doubao IME (豆包输入法) realtime speech recognition: transcribes voice messages
+  and local audio files through the same endpoint the input method uses, with
+  an anonymous device identity and no API key.
+author: seey6
+provides_tools:
+  - doubao_transcribe
+  - doubao_voice_status
