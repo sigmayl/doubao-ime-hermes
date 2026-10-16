@@ -17,7 +17,7 @@ and caches.
 
 ```bash
 # From this repository
-hermes plugins install <owner>/hermes-doubao-ime
+hermes plugins install sigmayl/doubao-ime-hermes
 
 # Or from a local checkout
 cp -r . ~/.hermes/plugins/doubao-ime
